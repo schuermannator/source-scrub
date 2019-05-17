@@ -1,2 +1,7 @@
-# source-scrub
-Anonymize source code
+# Source Scrub
+Anonymize source code through hashing possible identifiers.
+Reading TODO:
+- https://dataprivacylab.org/projects/scrub/paper1.pdf
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7743936
+
+
