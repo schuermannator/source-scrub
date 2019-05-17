@@ -15,3 +15,5 @@ main = do
   putStrLn "Running parser..."
   number <- numlinefile "data/test1.c"
   print number
+
+-- idk what I'm doing
